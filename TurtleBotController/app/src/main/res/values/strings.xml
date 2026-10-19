@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TurtleBot Controller</string>
+    <string name="robot_title">TURTLEBOT 3</string>
+    <string name="subtitle">Industrial Robot Controller</string>
+    
+    <!-- Controls -->
+    <string name="forward">FORWARD</string>
+    <string name="backward">BACKWARD</string>
+    <string name="turn_left">LEFT</string>
+    <string name="turn_right">RIGHT</string>
+    <string name="emergency_stop">STOP</string>
+    
+    <!-- Status Labels -->
+    <string name="status_connected">CONNECTED</string>
+    <string name="status_connecting">CONNECTING...</string>
+    <string name="status_disconnected">DISCONNECTED</string>
+    <string name="status_error">CONNECTION ERROR</string>
+    
+    <!-- Settings -->
+    <string name="default_ip">192.168.4.1</string>
+    <string name="default_port">8765</string>
+</resources>

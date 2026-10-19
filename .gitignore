@@ -1,0 +1,46 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Android Studio and Gradle
+*.iml
+.gradle/
+local.properties
+/local.properties
+**/local.properties
+.idea/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+output.json
+
+# Build directories
+build/
+*/build/
+**/build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+**/pytest_cache/
+.coverage
+htmlcov/
+dist/
+*.egg-info/
+venv/
+.env
+
+# Logs and temp files
+*.log
+Mob_contoller/
